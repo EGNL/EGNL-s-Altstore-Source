@@ -4,7 +4,9 @@
   "userInfo": {},
   "news": [],
   "apps": [
-    {
+   ]
+ },
+ {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
