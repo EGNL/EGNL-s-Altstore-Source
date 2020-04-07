@@ -2,7 +2,16 @@
   "name": "EGNL",
   "identifier": "com.ID.EGNL",
   "userInfo": {},
-  "news": [],
+  "news": [
+  	{
+      "title": "Download Play! now.",
+      "identifier": "play-download-now",
+      "caption": "The best PS2 Emulator on iOS.",
+      "tintColor": "5f5fff",
+      "imageURL": "https://quarklibrary.imfast.io/Play!/news.png",
+      "appID": "com.virtualapplications.play",
+      "date": "2020-04-04",
+      "notify": false
   "apps": [
     {
    "name": "Provenance",
