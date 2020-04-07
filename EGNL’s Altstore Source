@@ -5,7 +5,23 @@
   "news": [],
   "apps": [
     {
-      "name": "Provenance",
+      "name": "Play!",
+      "bundleIdentifier": "com.virtualapplications.play",
+      "developerName": "Jean-Philip Desjardins",
+      "subtitle": "PlayStation 2 Games on iOS.",
+      "version": "0.30-8af8a75",
+      "versionDate": "2020-03-30",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Play!/Play!.ipa",
+      "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n• No BIOS required. Play! is an high-level emulator.\n• Easy configuration. No custom settings to fix specific games.\n• Available on many platforms. Making sure the experience is the same everywhere.",
+      "iconURL": "https://github.com/jpd002/Play-/raw/master/Source/ui_ios/Resources/icon%402x.png",
+      "tintColor": "5f5fff",
+      "size": 910607,
+      "screenshotURLs": [
+      ]
+    },
+    {
+   "name": "Provenance",
       "bundleIdentifier": "com.provenance-emu.provenance",
       "developerName": "Provenance Emu",
       "subtitle": "Multi Emulator for iOS",
