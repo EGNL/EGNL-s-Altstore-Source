@@ -79,6 +79,23 @@
         "https://i.pinimg.com/originals/fb/7d/bc/fb7dbcf469c69f8b81b510386caa229e.jpg",
         "https://twitgoo.com/wp-content/uploads/2019/05/image2.png",
         "https://troypoint.com/wp-content/uploads/2018/12/inds-13.png"
+       ]
+     },
+     {
+"name": "Play!",
+      "bundleIdentifier": "com.virtualapplications.play",
+      "developerName": "Jean-Philip Desjardins",
+      "subtitle": "PlayStation 2 Games on iOS.",
+      "version": "0.30-8af8a75",
+      "versionDate": "2020-03-30",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Play!/Play!.ipa",
+      "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n• No BIOS required. Play! is an high-level emulator.\n• Easy configuration. No custom settings to fix specific games.\n• Available on many platforms. Making sure the experience is the same everywhere.",
+      "iconURL": "https://github.com/jpd002/Play-/raw/master/Source/ui_ios/Resources/icon%402x.png",
+      "tintColor": "5f5fff",
+      "size": 910607,
+      "beta": false,
+      "screenshotURLs": [  
       ]
     }
   ]
