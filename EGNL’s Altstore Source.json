@@ -80,7 +80,7 @@
         "https://twitgoo.com/wp-content/uploads/2019/05/image2.png",
         "https://troypoint.com/wp-content/uploads/2018/12/inds-13.png"
        ]
-     }'
+     },
      {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
