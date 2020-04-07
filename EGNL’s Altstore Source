@@ -5,25 +5,6 @@
   "news": [],
   "apps": [
     {
-      "name": "Geometry Dash",
-      "bundleIdentifier": "com.robtop.geometryjump",
-      "developerName": "Robtop Games",
-      "subtitle": "Amazing game for iOS!",
-      "version": "2.11",
-      "versionDate": "2020-03-24T14:00:00-07:00",
-      "versionDescription": "iPhone X support!\nNew icons and effects!\nNew community shop!\nWeekly Demon challenge!\nFolders and level sorting!\nNew demon chests!\nLevel leaderboards!\nRandom other fun stuff.\nLots of bugfixes and tweaks.",
-      "downloadURL": "https://rb.gy/jbthlp",
-      "localizedDescription": "Geometry Dash is a rhythm-based platformer game for iOS!",
-      "iconURL": "https://gamefaqs1.cbsistatic.com/box/6/6/0/292660_front.jpg",
-      "tintColor": "018084",
-      "size": 2184796,
-      "beta": false,
-      "screenshotURLs": [
-        "https://static-cdn.jtvnw.net/ttv-boxart/Geometry%20Dash.jpg",
-        "https://wallpaperaccess.com/full/1424654.jpg"
-      ]
-    },
-    {
       "name": "Provenance",
       "bundleIdentifier": "com.provenance-emu.provenance",
       "developerName": "Provenance Emu",
