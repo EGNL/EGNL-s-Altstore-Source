@@ -82,7 +82,7 @@
        ]
      },
      {
-"name": "Play!",
+      "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
       "subtitle": "PlayStation 2 Games on iOS.",
