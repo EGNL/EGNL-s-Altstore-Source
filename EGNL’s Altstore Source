@@ -96,18 +96,6 @@
         "https://twitgoo.com/wp-content/uploads/2019/05/image2.png",
         "https://troypoint.com/wp-content/uploads/2018/12/inds-13.png"
       ]
-     },
-     {
-"news": [
-		{
-      "title": "Download Play! now.",
-      "identifier": "play-download-now",
-      "caption": "The best PS2 Emulator on iOS.",
-      "tintColor": "5f5fff",
-      "imageURL": "https://quarklibrary.imfast.io/Play!/news.png",
-      "appID": "com.virtualapplications.play",
-      "date": "2020-04-04",
-      "notify": false
     },
 ]
     }
