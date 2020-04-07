@@ -96,11 +96,11 @@
       "size": 910607,
       "beta": false,
       "screenshotURLs": [  
-       ]
-    },
-       {
+      ]
+    }
+	],
 	"news": [
-	 {
+		{
       "title": "Download Play! now.",
       "identifier": "play-download-now",
       "caption": "The best PS2 Emulator on iOS.",
