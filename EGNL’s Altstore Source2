@@ -1,0 +1,102 @@
+{
+  "name": "EGNL",
+  "identifier": "com.ID.EGNL",
+  "userInfo": {},
+  "news": [],
+  "apps": [
+    {
+   "name": "Provenance",
+      "bundleIdentifier": "com.provenance-emu.provenance",
+      "developerName": "Provenance Emu",
+      "subtitle": "Multi Emulator for iOS",
+      "version": "1.4",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "New Features:\n\nPlayStation core\nPokémon mini core\nVirtual Boy core\nAtari 7800 & Lynx core\nNeo Geo Pocket / Neo Geo Pocket Color core\nPC Engine / TurboGrafx-16 (CD) core\nSuperGrafx core\nPC-FX core\nWonderSwan core\nCRT Shader",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/1.4/Provenance-Release-1.4.ipa",
+      "localizedDescription": "Provenance is a great Multi Emulator for iOS!",
+      "iconURL": "https://github.com/Provenance-Emu/Provenance/raw/master/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/Icon-83.5%402x.png",
+      "tintColor": "018084",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://cdn.redmondpie.com/wp-content/uploads/2016/11/provenance-ios-101.jpg",
+        "https://qph.fs.quoracdn.net/main-qimg-1023fcd5fc85799b35cdf46885986483"
+      ]
+    },
+    {
+      "name": "RetroArch",
+      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
+      "developerName": "Libretro",
+      "subtitle": "Multi Emulator for iOS",
+      "version": "1.7.9",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://cdn.builds.io/ipa_builds/RetroArch%20(3).ipa",
+      "localizedDescription": "RetroArch is a great Multi Emulator for iOS!",
+      "iconURL": "https://github.com/libretro/RetroArch/raw/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-83.5-3.png",
+      "tintColor": "018084",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf240rgrRne8pzjjSnCB0nS2ZW6j61tzQWvzZsD_dHkcknhF-D",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAuDOg92HysFmqruClX0gAEAt3xaMWJqKBKLYjJpgBjf6n9RC8",
+        "https://www.androidfreeware.net/img2/retroarch-android-7.jpg"
+      ]
+    },
+    {
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "PPSSPP Team",
+      "subtitle": "PSP Emulator for iOS",
+      "version": "1.9.3",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "1.9.3 fixes a few additional bugs.",
+      "downloadURL": "https://github.com/CrafterPika/altstore_ipas/blob/master/ipa/ppsspp_altstore_v1.9.3.ipa?raw=true",
+      "localizedDescription": "PPSSPP Is a amazing PSP Emulator for iOS!",
+      "iconURL": "https://i.pinimg.com/originals/4e/d7/67/4ed76765b9c1e4e655709d97d0b6a6e0.jpg",
+      "tintColor": "018084",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://moreinfo.thebigboss.org/moreinfo/ppsspp2.jpg"
+      ]
+    },
+    {
+      "name": "iNDS",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "developerName": "iNDS Team",
+      "subtitle": "DS Emulator for iOS",
+      "version": "1.10.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS",
+      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+      "localizedDescription": "iNDS is a great DS Emulator for iOS!",
+      "iconURL": "https://github.com/iNDS-Team/iNDS/blob/master/Images.xcassets/AppIcon.appiconset/a-1.png?raw=true",
+      "tintColor": "018084",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://i.pinimg.com/originals/fb/7d/bc/fb7dbcf469c69f8b81b510386caa229e.jpg",
+        "https://twitgoo.com/wp-content/uploads/2019/05/image2.png",
+        "https://troypoint.com/wp-content/uploads/2018/12/inds-13.png"
+       ]
+     },
+     {
+      "name": "Play!",
+      "bundleIdentifier": "com.virtualapplications.play",
+      "developerName": "Jean-Philip Desjardins",
+      "subtitle": "PlayStation 2 Games on iOS.",
+      "version": "0.30-8af8a75",
+      "versionDate": "2020-03-30",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Play!/Play!.ipa",
+      "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n• No BIOS required. Play! is an high-level emulator.\n• Easy configuration. No custom settings to fix specific games.\n• Available on many platforms. Making sure the experience is the same everywhere.",
+      "iconURL": "https://github.com/jpd002/Play-/raw/master/Source/ui_ios/Resources/icon%402x.png",
+      "tintColor": "5f5fff",
+      "size": 910607,
+      "beta": false,
+      "screenshotURLs": [  
+      ]
+    }
+  ]
+}
